@@ -1,6 +1,5 @@
-#Basic cURL Command
+# Basic cURL Command
 
-###cURL 
 - [Documentation](https://curl.haxx.se/docs/) 
 - [Basic cURL Tutorial](https://www.youtube.com/watch?v=7XUibDYw4mc&t=2s) by Traversy Média Tutorial
 - The cURL command prompt comes with Git Bash when Git is installed
